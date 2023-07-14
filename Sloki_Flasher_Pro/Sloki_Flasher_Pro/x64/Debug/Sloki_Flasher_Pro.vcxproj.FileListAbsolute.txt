@@ -1,0 +1,4 @@
+D:\_Sloki\_Projects\SlokiFlasherToolPro\Code\Sloki_Flasher_Pro\Sloki_Flasher_Pro\x64\Debug\Sloki_Flasher_Pro.vcxproj.AssemblyReference.cache
+D:\_Sloki\_Projects\SlokiFlasherToolPro\Code\Sloki_Flasher_Pro\Sloki_Flasher_Pro\x64\Debug\Sloki_Flasher_Pro.vcxproj.SuggestedBindingRedirects.cache
+D:\_Sloki\_Projects\SlokiFlasherToolPro\Code\Sloki_Flasher_Pro\Sloki_Flasher_Pro\x64\Debug\SlokiFlasherPro.SlokiFlasherPro.resources
+D:\_Sloki\_Projects\SlokiFlasherToolPro\Code\Sloki_Flasher_Pro\Sloki_Flasher_Pro\x64\Debug\Sloki_Flasher_Pro.vcxproj.GenerateResource.cache
